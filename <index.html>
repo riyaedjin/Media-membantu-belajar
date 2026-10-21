@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Profil Saya - Dannis</title>
+<head>
+    <title>firli</title>
     <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
+</head>
+<body>
     <div class="kartu-profil">
-    <img src="foto-profil.jpg" alt="Foto profil saya">
-    <h1>Nama Lengkap Anda</h1>
-    <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website  pertama saya!</p>
-    <a href="https://www.instagram.com/riyaedjin">Kunjungi Instagram Saya</a>
-    <button id="sapaButton">Sapa Saya!</button>button>
+        <img src="foto-profil.jpg" alt="Foto profil saya">
+        <h1>Nama Lengkap Anda</h1>
+        <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
+        <a href="https://www.instagram.com/riyaedjin">Kunjungi Instagram Saya</a>
     </div>
-    <script src"=script.js"></script>
-  </body>
+</body>
 </html>
